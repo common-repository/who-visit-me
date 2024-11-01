@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: who-visit-me\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-06 20:49+0800\n"
+"PO-Revision-Date: 2011-04-06 21:07+0800\n"
+"Last-Translator: winy <admin@winysky.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: who-visit-me.php:84
+#: who-visit-me.php:280
+msgid "who-visit-me"
+msgstr "最近来访 设置 "
+
+#: who-visit-me.php:91
+msgid "who-visit-me Options"
+msgstr "最近来访 设置"
+
+#: who-visit-me.php:94
+msgid "Some configuration:"
+msgstr "一些设置选型："
+
+#: who-visit-me.php:98
+msgid "IP database address Options:"
+msgstr "IP 数据库地址"
+
+#: who-visit-me.php:101
+msgid "Customize IP database"
+msgstr "自定义数据库地址（默认用纯真的数据库）"
+
+#: who-visit-me.php:105
+msgid "Database reserve number:"
+msgstr "数据保留数目："
+
+#: who-visit-me.php:107
+msgid "Input reserve number.Automatically remove the old data (activated once per day )"
+msgstr "输入保留数目。（每天自动移除旧的数据）"
+
+#: who-visit-me.php:111
+msgid "show visitor number:"
+msgstr "显示访客数量："
+
+#: who-visit-me.php:114
+msgid "Input display number"
+msgstr "输入前台显示数量"
+
+#: who-visit-me.php:118
+msgid "Size of gravartar img"
+msgstr "Gravartar头像："
+
+#: who-visit-me.php:121
+msgid "Input size number(32 for default)"
+msgstr "输入头像大小（默认32）"
+
+#: who-visit-me.php:125
+msgid "links setting:"
+msgstr "链接设置："
+
+#: who-visit-me.php:128
+msgid "Display links?"
+msgstr "是否显示链接？"
+
+#: who-visit-me.php:132
+msgid "Location setting :"
+msgstr "位置设置："
+
+#: who-visit-me.php:135
+msgid "Display location?"
+msgstr "是否显示地址信息？"
+
+#: who-visit-me.php:139
+msgid "Blacklist :"
+msgstr "黑名单："
+
+#: who-visit-me.php:142
+msgid "Input the NAME which do not want to show(Like SPAMs),seperate by \",\" for multiple names"
+msgstr "输入不想显示的名字（例如SPAM的名字），支持多个名字，以“，”分割"
+
+#: who-visit-me.php:155
+msgid "plugin reduce"
+msgstr "插件支持"
+
+#: who-visit-me.php:157
+msgid "use &lt;?php wvm_echo(); ?> to show the who-visit-me list."
+msgstr "使用&lt;?php wvm_echo(); ?> 直接调用"
+
+#: who-visit-me.php:159
+msgid "Go to "
+msgstr "前往"
+
+#: who-visit-me.php:159
+msgid "My Blog Plugins page "
+msgstr "我的博客插件发布地址"
+
+#: who-visit-me.php:159
+msgid " to get more info."
+msgstr "获取更多支持。"
+
+#: who-visit-me.php:200
+msgid " From Local"
+msgstr "来自本地网络"
+
+#: who-visit-me.php:221
+msgid "Unknow Address"
+msgstr "此人来自火星"
+
+#: who-visit-me.php:254
+msgid "Oooops,nobody visit here recently~"
+msgstr "目前暂时无人来访~"
+
+#: who-visit-me.php:279
+msgid "show recent visitor in sidebar widget."
+msgstr "在侧边栏显示最近来访"
+
+#: who-visit-me.php:284
+#: who-visit-me.php:294
+msgid "recent visitor"
+msgstr "最近来访"
+
+#: who-visit-me.php:285
+msgid "widget title: "
+msgstr "小工具标题"
+
+#: who-visit-me.php:307
+msgid " hour"
+msgstr " 小时"
+
+#: who-visit-me.php:307
+msgid " minutes"
+msgstr " 分钟"
+
+#: who-visit-me.php:322
+msgid "before"
+msgstr "前"
+
+#: who-visit-me.php:324
+msgid " seconds before"
+msgstr " 秒前"
+
+#: who-visit-me.php:325
+msgid "1 day before"
+msgstr "1 天前"
+
